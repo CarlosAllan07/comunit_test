@@ -12,3 +12,4 @@ document.querySelector(".calcular").addEventListener("click", function soma() {
  }
     
 })
+alert("bem vindo")
